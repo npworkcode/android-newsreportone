@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">NewsAppOne</string>
+    <string name="no_articles">No Articles Found</string>
+    <string name="no_network">No Internet connection</string>
+    <string name="from_date">from-date=</string>
+    <string name="to_date">&amp;to-date=</string>
+    <string name="order_by">&amp;order-by=</string>
+    <string name="order_by_newest">newest</string>
+    <string name="page_size">&amp;page-size=</string>
+    <string name="query">&amp;q=</string>
+    <string name="query_term">tesla</string>
+    <string name="api_key">&amp;api-key=test</string>
+    <string name="show_tag_contributor">&amp;show-tags=contributor</string>
+    <string name="pages">&amp;pages=%1$d</string>
+    <string name="guardian_api_url">https://content.guardianapis.com/search?</string>
+    <string name="guardian_api_json_results">results</string>
+    <string name="guardian_api_json_response">response</string>
+    <string name="guardian_api_json_section_name">sectionName</string>
+    <string name="guardian_api_json_web_title">webTitle</string>
+    <string name="guardian_api_json_web_url">webUrl</string>
+    <string name="guardian_api_json_contributor_firstname">firstName</string>
+    <string name="guardian_api_json_contributor_lastname">lastName</string>
+    <string name="guardian_api_json_tags">tags</string>
+    <string name="guardian_api_json_date_published">webPublicationDate</string>
+    <string name="newsreport_error_createurl">"NEWSREPORT ERROR: Error creating URL</string>
+    <string name="newsreport_error_httprequest">"NEWSREPORT ERROR: Http Response Error, code is: %1$d</string>
+    <string name="newsreport_error_securityexception">"NEWSREPORT ERROR: Security Exception thrown in: %1$s</string>
+    <string name="newsreport_error_ioexception">"NEWSREPORT ERROR: IO Exception thrown in: %1$s</string>
+    <string name="newsreport_error_jsonexception">"NEWSREPORT ERROR: JSON exception passing stream in: %1$s</string>
+</resources>
